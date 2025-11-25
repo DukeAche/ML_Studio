@@ -1,0 +1,21 @@
+age,income,city,purchase_amount,education_level,gender
+25,45000,New York,120,Bachelor,Male
+30,65000,Los Angeles,200,Master,Female
+35,75000,Chicago,150,Bachelor,Male
+28,52000,Houston,180,Master,Female
+42,85000,Phoenix,300,PhD,Male
+26,48000,Philadelphia,90,Bachelor,Female
+33,68000,San Antonio,220,Master,Male
+29,55000,San Diego,160,Bachelor,Female
+38,78000,Dallas,280,Master,Male
+31,62000,San Jose,190,Bachelor,Female
+27,50000,Austin,140,Master,Male
+36,72000,Jacksonville,250,PhD,Female
+24,44000,Fort Worth,80,Bachelor,Male
+34,70000,Columbus,210,Master,Female
+39,82000,Charlotte,320,PhD,Male
+32,64000,Indianapolis,170,Bachelor,Female
+28,53000,Seattle,200,Master,Male
+41,88000,Denver,350,PhD,Female
+26,47000,Washington,110,Bachelor,Male
+37,76000,Boston,290,Master,Female
